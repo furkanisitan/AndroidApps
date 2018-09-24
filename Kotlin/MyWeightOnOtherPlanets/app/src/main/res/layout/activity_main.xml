@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    tools:layout_editor_absoluteY="25dp">
+
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="16dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:fontFamily="monospace"
+        android:text="@string/app_title"
+        android:textColor="@android:color/holo_green_light"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.545"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="0dp"
+        android:layout_height="180dp"
+        android:scaleType="fitXY"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/space" />
+
+    <CheckBox
+        android:id="@+id/cbMercury"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:fontFamily="monospace"
+        android:text="@string/cb_mercury"
+        android:textColor="@android:color/holo_blue_light"
+        android:textSize="18sp"
+        android:textStyle="italic"
+        app:layout_constraintEnd_toStartOf="@+id/cbVenus"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tvTitle" />
+
+    <CheckBox
+        android:id="@+id/cbVenus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="monospace"
+        android:text="@string/cb_venus"
+        android:textColor="@android:color/holo_blue_light"
+        android:textSize="18sp"
+        android:textStyle="italic"
+        app:layout_constraintEnd_toStartOf="@+id/cbMars"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/cbMercury"
+        app:layout_constraintTop_toTopOf="@+id/cbMercury" />
+
+    <CheckBox
+        android:id="@+id/cbMars"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="monospace"
+        android:text="@string/cb_mars"
+        android:textColor="@android:color/holo_blue_light"
+        android:textSize="18sp"
+        android:textStyle="italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/cbVenus"
+        app:layout_constraintTop_toTopOf="@+id/cbVenus" />
+
+    <CheckBox
+        android:id="@+id/cbUranus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:fontFamily="monospace"
+        android:text="@string/cb_uranus"
+        android:textColor="@android:color/holo_blue_light"
+        android:textSize="18sp"
+        android:textStyle="italic"
+        app:layout_constraintEnd_toStartOf="@+id/cbJupiter"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cbMercury" />
+
+    <CheckBox
+        android:id="@+id/cbJupiter"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="monospace"
+        android:text="@string/cb_jupiter"
+        android:textColor="@android:color/holo_blue_light"
+        android:textSize="18sp"
+        android:textStyle="italic"
+        app:layout_constraintEnd_toStartOf="@+id/cbSaturn"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/cbUranus"
+        app:layout_constraintTop_toTopOf="@+id/cbUranus" />
+
+    <CheckBox
+        android:id="@+id/cbSaturn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="monospace"
+        android:text="@string/cb_saturn"
+        android:textColor="@android:color/holo_blue_light"
+        android:textSize="18sp"
+        android:textStyle="italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/cbJupiter"
+        app:layout_constraintTop_toTopOf="@+id/cbUranus" />
+
+    <CheckBox
+        android:id="@+id/cbNeptune"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:fontFamily="monospace"
+        android:text="@string/cb_neptune"
+        android:textColor="@android:color/holo_blue_light"
+        android:textSize="18sp"
+        android:textStyle="italic"
+        app:layout_constraintEnd_toStartOf="@+id/cbPluto"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cbUranus" />
+
+    <CheckBox
+        android:id="@+id/cbPluto"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="monospace"
+        android:text="@string/cb_pluto"
+        android:textColor="@android:color/holo_blue_light"
+        android:textSize="18sp"
+        android:textStyle="italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/cbNeptune"
+        app:layout_constraintTop_toTopOf="@+id/cbNeptune" />
+
+    <EditText
+        android:id="@+id/etWeight"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="4dp"
+        android:layout_weight="1"
+        android:ems="10"
+        android:hint="@string/et_weight_hint"
+        android:inputType="numberDecimal"
+        android:textColor="@android:color/holo_orange_light"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cbNeptune" />
+
+    <TextView
+        android:id="@+id/tvResult"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:fontFamily="monospace"
+        android:textColor="@android:color/holo_orange_light"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="@+id/etWeight"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/etWeight" />
+
+</android.support.constraint.ConstraintLayout>

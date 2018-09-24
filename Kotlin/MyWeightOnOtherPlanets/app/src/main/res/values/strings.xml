@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Gezegenlerde Kilom</string>
+    <string name="app_title">Gezegenlerde Kaç Kilosun ???</string>
+    <string name="et_weight_hint">Dünyadaki kilon?</string>
+    <string name="cb_mars">Mars</string>
+    <string name="cb_venus">Venüs</string>
+    <string name="cb_mercury">Merkür</string>
+    <string name="cb_jupiter">Jüpiter</string>
+    <string name="cb_uranus">Uranüs</string>
+    <string name="cb_saturn">Satürn</string>
+    <string name="cb_neptune">Neptün</string>
+    <string name="cb_pluto">Plüton</string>
+</resources>
