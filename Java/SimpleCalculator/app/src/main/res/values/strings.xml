@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Hesap Makinesi</string>
+    <string name="error">Hata!</string>
+    <string name="divisionbyzero">Sıfıra bölünemez...</string>
+    <string name="bracketOpen">(</string>
+    <string name="bracketClose">)</string>
+    <string name="clear">C</string>
+    <string name="delete">←</string>
+    <string name="equal">=</string>
+    <string name="virgule">,</string>
+    <string name="divide">÷</string>
+    <string name="multiply">x</string>
+    <string name="add">+</string>
+    <string name="subtract">-</string>
+</resources>
