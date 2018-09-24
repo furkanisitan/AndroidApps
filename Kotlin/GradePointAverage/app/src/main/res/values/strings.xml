@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ortalama Hesapla</string>
+    <string name="et_lessonName_hint">Ders Adı Giriniz</string>
+    <string name="btn_calculate">Hesapla</string>
+</resources>
