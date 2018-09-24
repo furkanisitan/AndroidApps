@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="bubble">
+        <item>#41ffffff</item>
+        <item>#18ffffff</item>
+        <item>#1fffffff</item>
+        <item>#25ffffff</item>
+    </string-array>
+
+    <string-array name="BubbleAnimations">
+        <item>com.github.glomadrian.grav.generator.animation.SideToSideAnimator</item>
+        <item>com.github.glomadrian.grav.generator.animation.ShakeAnimator</item>
+    </string-array>
+
+    <!-- NOTE: Related values in lists must be in the same index/position. -->
+    <string-array name="horoscopes">
+        <item>Koç</item>
+        <item>Boğa</item>
+        <item>İkizler</item>
+        <item>Yengeç</item>
+        <item>Aslan</item>
+        <item>Başak</item>
+        <item>Terazi</item>
+        <item>Akrep</item>
+        <item>Yay</item>
+        <item>Oğlak</item>
+        <item>Kova</item>
+        <item>Balık</item>
+    </string-array>
+
+    <string-array name="horoscopeDates">
+        <item>21 Mart - 20 Nisan</item>
+        <item>21 Nisan - 21 Mayıs</item>
+        <item>22 Mayıs - 22 Haziran</item>
+        <item>23 Haziran - 22 Temmuz</item>
+        <item>23 Temmuz - 22 Ağustos</item>
+        <item>23 Ağustos - 22 Eylül</item>
+        <item>23 Eylül - 22 Ekim</item>
+        <item>23 Ekim - 21 Kasım</item>
+        <item>22 Kasım - 21 Aralık</item>
+        <item>22 Aralı k- 21 Ocak</item>
+        <item>22 Ocak - 19 Şubat</item>
+        <item>20 Şubat - 20 Mart</item>
+    </string-array>
+
+    <integer-array name="horoscopeImageIDs">
+        <item>@drawable/aries1</item>
+        <item>@drawable/taurus2</item>
+        <item>@drawable/gemini3</item>
+        <item>@drawable/cancer4</item>
+        <item>@drawable/leo5</item>
+        <item>@drawable/virgo6</item>
+        <item>@drawable/libra7</item>
+        <item>@drawable/scorpio8</item>
+        <item>@drawable/sagittarius9</item>
+        <item>@drawable/capricorn10</item>
+        <item>@drawable/aquarius11</item>
+        <item>@drawable/pisces12</item>
+    </integer-array>
+
+    <integer-array name="horoscopeImageBigIDs">
+        <item>@drawable/aries_big1</item>
+        <item>@drawable/taurus_big2</item>
+        <item>@drawable/gemini_big3</item>
+        <item>@drawable/cancer_big4</item>
+        <item>@drawable/leo_big5</item>
+        <item>@drawable/virgo_big6</item>
+        <item>@drawable/libra_big7</item>
+        <item>@drawable/scorpio_big8</item>
+        <item>@drawable/sagittarius_big9</item>
+        <item>@drawable/capricorn_big10</item>
+        <item>@drawable/aquarius_big11</item>
+        <item>@drawable/pisces_big12</item>
+    </integer-array>
+
+    <string-array name="horoscopeGeneralFeatures">
+        <item>
+Yönetici yıldızınız: Mars \n \n
+Grubunuz: Ateş \n \n
+Uğurlu gününüz: Salı \n \n
+Uğurlu sayınız: 8 \n \n
+Uğurlu renginiz: Ateş kırmızısı \n \n
+Uğurlu taşlarınız: Opal, elmas, safir \n \n
+Uğurlu çicekleriniz: Lale, papatya \n \n
+Uğurlu kokularınız: Manolya, lavanta, ıtır \n \n
+Olumlu özelliğiniz: Cesaret \n \n
+Olumsuz özelliğiniz: Acelecilik \n \n
+Anlaştığınız burçlar:Aslan,  \n \n
+Anlaşamadığınız burçlar: Yengeç, Terazi, Oğlak \n \n
+Başarılı olacağınız meslekler: Politikacılık, yöneticilik, işletmecilik, mühendislik, ressamlık, müzisyenlik, oyunculuk \n \n
+Burcunuzdan olan ünlüler: Fatih Sultan Mehmet,Sakıp Sabancı, Descartes, Charlie Chaplin, Vincent Van Gogh, Zeki Alasya \n \n
+        </item>
+
+        <item>
+Yönetici yıldızınız: Venüs \n \n
+Grubunuz: Toprak \n \n
+Uğurlu gününüz: Cuma \n \n
+Uğurlu sayınız: 6 \n \n
+Uğurlu renginiz: Pastel Mavi, Lila \n \n
+Uğurlu taşlarınız: Pastel Mavi, Lila \n \n
+Uğurlu çicekleriniz: Kırmızı gül, pembe karanfil ve şebboy \n \n
+Uğurlu kokularınız: Karanfil, elma çiçeği \n \n
+Olumlu özelliğiniz: Güvenilirlikv
+Olumsuz özelliğiniz: İnatçılık \n \n
+Anlaştığınız burçlar: Yengeç, Balık \n \n
+Anlaşamadığınız burçlar: Kova, Aslan, Akrep \n \n
+Başarılı olacağınız meslekler: Askerlik, doktorluk, mimarlık, mühendislik, bankacılık \n \n
+Burcunuzdan olan ünlüler: Nükhet Duru, Öztürk Serengil, Salvadore Dali, Karl Marks, Lenin, Sigmund Freud, Shakespare \n \n
+        </item>
+
+        <item>
+Yönetici yıldızınız: Merkür \n \n
+Grubunuz: Hava \n \n
+Uğurlu gününüz: Çarşamba \n \n
+Uğurlu sayınız: 5 \n \n
+Uğurlu renginiz: Sarı \n \n
+Uğurlu taşlarınız: Kuvars, Akik, Turkuaz \n \n
+Uğurlu çicekleriniz: Çiğdem, mimoza \n \n
+Uğurlu kokularınız: Gardenya, sümbül, yasemin \n \n
+Olumlu özelliğiniz: Konuşkan olmak \n \n
+Olumsuz özelliğiniz: Kararsızlık \n \n
+Anlaştığınız burçlar: Terazi, Kova, Aslan \n \n
+Anlaşamadığınız burçlar: Başak, Yay \n \n
+Başarılı olacağınız meslekler: Yazarlık, bankacılık, avukatlık, gazetecilik, edebiyatçı \n \n
+Burcunuzdan olan ünlüler: Adile Naşit, Bülent Ecevit, John F. Kennedy, John Wayne, Schumann \n \n
+        </item>
+
+        <item>
+Yönetici yıldızınız: Ay \n \n
+Grubunuz: Su \n \n
+Uğurlu gününüz: Pazartesi \n \n
+Uğurlu sayınız: 2 \n \n
+Uğurlu renginiz: Beyaz \n \n
+Uğurlu taşlarınız: Ametist, Pembe kuvars \n \n
+Uğurlu çicekleriniz: Nilüfer, beyaz gül, zambak \n \n
+Uğurlu kokularınız: Misk, müge, leylak \n \n
+Olumlu özelliğiniz: Sabırlı olmak \n \n
+Olumsuz özelliğiniz: Dikkatsizlik \n \n
+Anlaştığınız burçlar: Boğa, Balık \n \n
+Anlaşamadığınız burçlar: Koç, Aslan, Kova \n \n
+Başarılı olacağınız meslekler: Eczacılık, turizm, pilotluk, kimyagerlik \n \n
+Burcunuzdan olan ünlüler: Sezen Aksu, Türkan Şoray, Louis Armstrong, Tom Cruise, Giorgio Armani, Lady Diana \n \n
+        </item>
+
+        <item>
+Yönetici yıldızınız: Güneş \n \n
+Grubunuz: Ateş \n \n
+Uğurlu gününüz: Pazartesi \n \n
+Uğurlu sayınız: 1 \n \n
+Uğurlu renginiz: Sarı \n \n
+Uğurlu taşlarınız: Sardoniks, Peridot, Krizolit \n \n
+Uğurlu çicekleriniz: Kırmızı gül, sarı krizantem ve orkide \n \n
+Uğurlu kokularınız: Misk, portakal çiçeği ve gül \n \n
+Olumlu özelliğiniz: Cömertlik \n \n
+Olumsuz özelliğiniz: Kendini beğenmişlik \n \n
+Anlaştığınız burçlar: Koç, Yay \n \n
+Anlaşamadığınız burçlar: Boğa, Akrep, Kova \n \n
+Başarılı olacağınız meslekler: Askerlik, doktorluk, yöneticilik \n \n
+Burcunuzdan olan ünlüler: Uğur Mumcu, Gönül Yazar, Neil Armstrong, Benito Mussolini, Fidel Castro, Henry Ford, Madonna \n \n
+        </item>
+
+        <item>
+Yönetici yıldızınız: Merkür \n \n
+Grubunuz: Toprak \n \n
+Uğurlu gününüz: Çarşambav
+Uğurlu sayınız: 5 \n \n
+Uğurlu renginiz: Kobalt mavisi \n \n
+Uğurlu taşlarınız: Ametist, Akik, Yeşim Taşı, Zümrüt \n \n
+Uğurlu çicekleriniz: Açelya, sarı menekşe, lavanta çiçeği \n \n
+Uğurlu kokularınız: Leylak, limon ve sardunya \n \n
+Olumlu özelliğiniz: Titizlik \n \n
+Olumsuz özelliğiniz: Çekingenlik \n \n
+Anlaştığınız burçlar: Boğa, Oğlak \n \n
+Anlaşamadığınız burçlar: İkizler, Yay, Balık \n \n
+Başarılı olacağınız meslekler: Edebiyat alanı, yazarlık, eczacılık, muhasebecilik , araştırmacılık \n \n
+Burcunuzdan olan ünlüler: Büyük İskender, Uğur Dündar, Sophia Loren, Michael Jackson, Vitali Hakko, Richard Gere, Sean Connery \n \n
+        </item>
+
+        <item>
+Yönetici yıldızınız: Venüs \n \n
+Grubunuz: Hava \n \n
+Uğurlu gününüz: Cuma \n \n
+Uğurlu sayınız: 6 \n \n
+Uğurlu renginiz: Turkuaz ve mat renkler \n \n
+Uğurlu taşlarınız: Lapis Lazuli, Mercan, Opal \n \n
+Uğurlu çicekleriniz: Pembe krizantem, pembe gül \n \n
+Uğurlu kokularınız: Gardenya, yasemin ve orkide \n \n
+Olumlu özelliğiniz: Zariflik \n \n
+Olumsuz özelliğiniz: Gösteriş meraklısı olmak \n \n
+Anlaştığınız burçlar: İkizler, Kova \n \n
+Anlaşamadığınız burçlar: Koç, Yengeç, Oğlak \n \n
+Başarılı olacağınız meslekler: Müzisyenlik, ressamlık, mimarlık, bankacılık, politikacılık, hukukçuluk, heykeltraşlık \n \n
+Burcunuzdan olan ünlüler: Cem Özer, Hülya Avşar, Cervantes, Oscar Wilde, Pavorotti, Turgut Özal, Pavorotti, Jimmy Carter \n \n
+        </item>
+
+        <item>
+Yönetici yıldızınız: Mars-Plüton \n \n
+Grubunuz: Su \n \n
+Uğurlu gününüz: Salı \n \n
+Uğurlu sayınız: 9 \n \n
+Uğurlu renginiz: Kırmızı ve siyah \n \n
+Uğurlu taşlarınız: Akuamarin, Lapis Lazuli, Opal \n \n
+Uğurlu çiçekleriniz: Kırmızı karanfil, hanımeli, ateş çiçeği \n \n
+Uğurlu kokularınız: Misk, manolya \n \n
+Olumlu özelliğiniz: Kararlılık \n \n
+Olumsuz özelliğiniz: Merhametsizlik ve ihmarkarlık \n \n
+Anlaştığınız burçlar: Yengeç, Balık \n \n
+Anlaşamadığınız burçlar: Boğa, Aslan, Kova \n \n
+Başarılı olacağınız meslekler: Yöneticilik, mühendislik, komutanlık, yazarlık, müzisyenlik, gazetecilik \n \n
+Burcunuzdan olan ünlüler: Süleyman Demirel, Maradona, Pablo Picasso, Prenses Charles, Indra Gandhi, Alfred Nobel \n \n
+        </item>
+
+        <item>
+Yönetici yıldızınız: Jüpiter \n \n
+Grubunuz: Ateş \n \n
+Uğurlu gününüz: Perşembe \n \n
+Uğurlu sayınız: 3 \n \n
+Uğurlu renginiz: Mor ve koyu mavi \n \n
+Uğurlu taşlarınız: Obsidyen, Krizolit, Topaz \n \n
+Uğurlu çicekleriniz: Leylak, mor menekşe \n \n
+Uğurlu kokularınız: Nergis, menekşe, zambak \n \n
+Olumlu özelliğiniz: Girişimcilik \n \n
+Olumsuz özelliğiniz: Başkalarını küçümsemek \n \n
+Anlaştığınız burçlar: Koç, Aslan \n \n
+Anlaşamadığınız burçlar: İkizler, Başak, Balık \n \n
+Başarılı olacağınız meslekler: Politikacılık, hukukçu, araştırmacılık, bankacılık, öğretmenlik \n \n
+Burcunuzdan olan ünlüler:  Mehmet Ali Birand, Zeki Müren, Walt Disney, Winston Churchill, Ludwig van Beethoven, Mark Twain \n \n
+        </item>
+
+        <item>
+Yönetici yıldızınız: Satürn \n \n
+Grubunuz: Toprak \n \n
+Uğurlu gününüz: Cumartesi \n \n
+Uğurlu sayınız: 8 \n \n
+Uğurlu renginiz: Koyu kahverengi ve gri \n \n
+Uğurlu taşlarınız: Kuvars, Yakut, Kehribar \n \n
+Uğurlu çicekleriniz: Siyah gül, kadife çiçeği, kamelya \n \n
+Uğurlu kokularınız: Kamelya, cam, fulya \n \n
+Olumlu özelliğiniz: Kararlılık ve sağlam adımlar atmak \n \n
+Olumsuz özelliğiniz: Aşırı meraklı olmak \n \n
+Anlaştığınız burçlar: Boğa, Başak \n \n
+Anlaşamadığınız burçlar: Koç, Yengeç, Terazi \n \n
+Başarılı olacağınız meslekler: Güzellik uzmanlığı, mimarlık, madencilik, doktorluk, kuyumculuk \n \n
+Burcunuzdan olan ünlüler:  Filiz Akın, Semra Özal, Benjamin Franklin, Elvis Presley, Isaac Newton \n \n
+        </item>
+
+        <item>
+Yönetici yıldızınız: Uranüs \n \n
+Grubunuz: Hava \n \n
+Uğurlu gününüz: Pazar \n \n
+Uğurlu sayınız: 4 \n \n
+Uğurlu renginiz: Lacivert \n \n
+Uğurlu taşlarınız: Ametist, Gümüş, Grena \n \n
+Uğurlu çicekleriniz: Zerren, menekşe, kartopu, kır çiçekleri ve kuşburnu \n \n
+Uğurlu kokularınız: Sümbül, yasemin, menekşe \n \n
+Olumlu özelliğiniz: İradeli olmak \n \n
+Olumsuz özelliğiniz: İhmarkarlık \n \n
+Anlaştığınız burçlar: İkizler, Terazi \n \n
+Anlaşamadığınız burçlar: Boğa, Aslan, Akrep \n \n
+Başarılı olacağınız meslekler: Yazarlık, editörlük, gazetecilik, sanatçılık, organizatörlük, muhasebecilik \n \n
+Burcunuzdan olan ünlüler: Ajda Pekkan, Mozart, Ronald Reagan, Schubert, Abraham Lincoln, Kim Novak \n \n
+        </item>
+
+        <item>
+Yönetici yıldızınız: Neptün \n \n
+Grubunuz: Su \n \n
+Uğurlu gününüz: Perşembe \n \n
+Uğurlu sayınız: 7 \n \n
+Uğurlu renginiz: Turkuaz ve yeşil \n \n
+Uğurlu taşlarınız: Turkuaz, Ametist, Pembe Kuvars \n \n
+Uğurlu çicekleriniz: İnci çiçeği, zambak \n \n
+Uğurlu kokularınız: Kiraz çiçeği, zambak, limon çiçeği \n \n
+Olumlu özelliğiniz: Şefkatli ve merhametli olmak \n \n
+Olumsuz özelliğiniz: Kendinizi küçümsemek \n \n
+Anlaştığınız burçlar: Yengeç, Akrep \n \n
+Anlaşamadığınız burçlar: İkizler, Başak, Yay \n \n
+Başarılı olacağınız meslekler: Öğretmenlik, müzisyenlik, yazarlık, doktorluk \n \n
+Burcunuzdan olan ünlüler: Beyazıt Öztürk, Hidayet Türkoğlu, Beren Saat, Yuri Gagarin, Albert Einstein, Gorbachev \n \n
+        </item>
+    </string-array>
+
+</resources>
