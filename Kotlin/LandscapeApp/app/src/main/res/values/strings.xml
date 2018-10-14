@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LandscapeApp</string>
+    <string name="linear_horizontal">Linear Horizontal</string>
+    <string name="linear_vertical">Linear Vertical</string>
+    <string name="grid">Grid</string>
+    <string name="staggered_grid_horizontal">Staggered Grid Horizontal</string>
+    <string name="staggered_grid_vertical">Staggered Grid Vertical</string>
+</resources>

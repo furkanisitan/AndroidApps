@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer-array name="landscapeImageIDs">
+        <item>@drawable/thumb_1_0</item>
+        <item>@drawable/thumb_1_1</item>
+        <item>@drawable/thumb_1_2</item>
+        <item>@drawable/thumb_1_3</item>
+        <item>@drawable/thumb_1_4</item>
+        <item>@drawable/thumb_1_5</item>
+        <item>@drawable/thumb_1_6</item>
+        <item>@drawable/thumb_1_7</item>
+        <item>@drawable/thumb_1_8</item>
+        <item>@drawable/thumb_1_9</item>
+        <item>@drawable/thumb_2_0</item>
+        <item>@drawable/thumb_2_1</item>
+        <item>@drawable/thumb_2_2</item>
+        <item>@drawable/thumb_2_3</item>
+        <item>@drawable/thumb_2_4</item>
+        <item>@drawable/thumb_2_5</item>
+        <item>@drawable/thumb_2_6</item>
+        <item>@drawable/thumb_2_7</item>
+        <item>@drawable/thumb_2_8</item>
+        <item>@drawable/thumb_2_9</item>
+        <item>@drawable/thumb_3_0</item>
+        <item>@drawable/thumb_3_1</item>
+        <item>@drawable/thumb_3_2</item>
+        <item>@drawable/thumb_3_3</item>
+        <item>@drawable/thumb_3_4</item>
+        <item>@drawable/thumb_3_5</item>
+        <item>@drawable/thumb_3_6</item>
+        <item>@drawable/thumb_3_7</item>
+        <item>@drawable/thumb_3_8</item>
+        <item>@drawable/thumb_3_9</item>
+        <item>@drawable/thumb_4_0</item>
+        <item>@drawable/thumb_4_1</item>
+        <item>@drawable/thumb_4_2</item>
+        <item>@drawable/thumb_4_3</item>
+        <item>@drawable/thumb_4_4</item>
+        <item>@drawable/thumb_4_5</item>
+        <item>@drawable/thumb_4_6</item>
+        <item>@drawable/thumb_4_7</item>
+        <item>@drawable/thumb_4_8</item>
+        <item>@drawable/thumb_4_9</item>
+        <item>@drawable/thumb_5_0</item>
+        <item>@drawable/thumb_5_1</item>
+        <item>@drawable/thumb_5_2</item>
+        <item>@drawable/thumb_5_3</item>
+        <item>@drawable/thumb_5_4</item>
+        <item>@drawable/thumb_5_5</item>
+        <item>@drawable/thumb_5_6</item>
+        <item>@drawable/thumb_5_7</item>
+        <item>@drawable/thumb_5_8</item>
+        <item>@drawable/thumb_5_9</item>
+        <item>@drawable/thumb_6_0</item>
+        <item>@drawable/thumb_6_1</item>
+        <item>@drawable/thumb_6_2</item>
+        <item>@drawable/thumb_6_3</item>
+        <item>@drawable/thumb_6_4</item>
+        <item>@drawable/thumb_6_5</item>
+        <item>@drawable/thumb_6_6</item>
+        <item>@drawable/thumb_6_7</item>
+        <item>@drawable/thumb_6_8</item>
+        <item>@drawable/thumb_6_9</item>
+        <item>@drawable/thumb_7_0</item>
+        <item>@drawable/thumb_7_1</item>
+        <item>@drawable/thumb_7_2</item>
+        <item>@drawable/thumb_7_3</item>
+        <item>@drawable/thumb_7_4</item>
+    </integer-array>
+
+</resources>
