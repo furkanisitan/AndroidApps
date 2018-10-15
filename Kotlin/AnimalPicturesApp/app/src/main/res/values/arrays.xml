@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="animalNames">
+        <item>Kedi 1</item>
+        <item>Kedi 2</item>
+        <item>Kedi 3</item>
+        <item>Kedi 4</item>
+        <item>Kedi 5</item>
+        <item>Kedi 6</item>
+        <item>Kedi 7</item>
+        <item>Köpek 1</item>
+        <item>Köpek 2</item>
+        <item>Köpek 3</item>
+        <item>Köpek 4</item>
+        <item>Köpek 5</item>
+        <item>Geyik 1</item>
+        <item>Geyik 2</item>
+        <item>Geyik 3</item>
+        <item>Geyik 4</item>
+        <item>Papagan 1</item>
+        <item>Papagan 2</item>
+        <item>Papagan 3</item>
+        <item>Papagan 4</item>
+        <item>Papagan 5</item>
+        <item>Papagan 6</item>
+        <item>Papagan 7</item>
+        <item>Papagan 8</item>
+    </string-array>
+
+    <integer-array name="animalImageIDs">
+        <item>@drawable/ani_cat_one</item>
+        <item>@drawable/ani_cat_two</item>
+        <item>@drawable/ani_cat_three</item>
+        <item>@drawable/ani_cat_four</item>
+        <item>@drawable/ani_cat_five</item>
+        <item>@drawable/ani_cat_six</item>
+        <item>@drawable/ani_cat_seven</item>
+        <item>@drawable/ani_dog_one</item>
+        <item>@drawable/ani_dog_two</item>
+        <item>@drawable/ani_dog_three</item>
+        <item>@drawable/ani_dog_four</item>
+        <item>@drawable/ani_dog_five</item>
+        <item>@drawable/ani_deer_one</item>
+        <item>@drawable/ani_deer_two</item>
+        <item>@drawable/ani_deer_three</item>
+        <item>@drawable/ani_deer_four</item>
+        <item>@drawable/bird_parrot_one</item>
+        <item>@drawable/bird_parrot_two</item>
+        <item>@drawable/bird_parrot_three</item>
+        <item>@drawable/bird_parrot_four</item>
+        <item>@drawable/bird_parrot_five</item>
+        <item>@drawable/bird_parrot_six</item>
+        <item>@drawable/bird_parrot_seven</item>
+        <item>@drawable/bird_parrot_eight</item>
+    </integer-array>
+
+
+</resources>
