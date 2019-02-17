@@ -1,0 +1,3 @@
+﻿# LandscapeApp
+
+**Konular :** Recyclerview, LayoutManagers
